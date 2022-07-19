@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I'm Sergei Bastrakov👋
 
-<!--
-**sbastrakov/sbastrakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 Computational scientist and software developer based in Dresden, Germany
 
-Here are some ideas to get you started:
+👨‍💻 Postdoctoral researcher at [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de/db/Cms?pNid=0) in [Computational radiation physics group](https://github.com/ComputationalRadiationPhysics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Core developer and maintainer of particle-in-cell code [PIConGPU](https://github.com/ComputationalRadiationPhysics/picongpu) preparing it to [run on world’s first exascale supercomputer](https://www.olcf.ornl.gov/caar/frontier-caar/)
+
+👯 Looking for a job as a senior software developer or researcher, my CV is [here](https://sbastrakov.github.io/)
+
+---
+<center>
+  
+[![sbastrakov's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbastrakov&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=sbastrakov&count_private=true&show_icons=true)
+
+</center>
