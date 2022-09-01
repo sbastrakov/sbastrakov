@@ -6,7 +6,7 @@
 
 🔭 Core developer and maintainer of particle-in-cell code [PIConGPU](https://github.com/ComputationalRadiationPhysics/picongpu) preparing it to [run on world’s first exascale supercomputer](https://www.olcf.ornl.gov/caar/frontier-caar/)
 
-👯 Looking for a job as a senior software developer or researcher, my CV is [here](https://sbastrakov.github.io/)
+👯 My CV is [here](https://sbastrakov.github.io/)
 
 ---
 <center>
