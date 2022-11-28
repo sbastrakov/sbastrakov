@@ -8,9 +8,3 @@
 
 👯 My CV is [here](https://sbastrakov.github.io/)
 
----
-<center>
-  
-[![sbastrakov's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbastrakov&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=sbastrakov&count_private=true&show_icons=true)
-
-</center>
